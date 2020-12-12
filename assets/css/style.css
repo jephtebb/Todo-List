@@ -34,7 +34,7 @@ form button{
     transition: all 0.3s ease;
 }
 form button:hover{
-    background: #aa3515;
+    background: lightslategray;
     color:lightgray;
 }
 .todo-container{
@@ -107,7 +107,7 @@ select {
     overflow: hidden;
   }
   select {
-    color: #ff6f47;
+    color: #fda085;
     font-family: "Poppins", sans-serif;
     cursor: pointer;
     width: 12rem;
@@ -120,7 +120,7 @@ select {
     top: 0;
     right: 0;
     padding: 1rem;
-    background: #ff6f47;
+    background: #fda085;
     cursor: pointer;
     pointer-events: none;
     transition: all 0.3s ease;
@@ -128,7 +128,7 @@ select {
  
   .select:hover::after {
     background:#fff;
-    color: #ff6f47;
+    color: #fda085;
   }
   
   
